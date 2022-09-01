@@ -1,0 +1,7 @@
+torch
+matplotlib
+torchvision
+tqdm
+PIL
+numpy
+tkinter
